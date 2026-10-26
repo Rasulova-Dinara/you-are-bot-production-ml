@@ -4,3 +4,8 @@ mlruns/
 *.zip
 submission*.csv
 __pycache__/
+*.zip
+*.pkl
+*.parquet
+*.db
+submission*.csv
