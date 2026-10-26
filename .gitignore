@@ -1,0 +1,6 @@
+mlruns/
+*.pkl
+*.parquet
+*.zip
+submission*.csv
+__pycache__/
